@@ -1,6 +1,6 @@
-﻿token=NTE3MDE2Nzk4ODM1NjM4Mjky.Dt8GuQ.umAl4ui7lVbA1SEbvidsVHtgYLY
-owner=509719956473249802
-prefix= G
-game= Gplay
+token=NTE3MTcxNTI2NDY2OTI4NjYy.Dt-Wyw.pnRMoj-Qvb1xZBG5Mpdbv7X1ojE
+owner=353857391646998528
+prefix= 4
+game= https://discord.gg/ypthEz6
 stayinchannel=true
 songinstatus=true 
